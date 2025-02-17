@@ -30,13 +30,13 @@ This repository contains documents that explore EAO from different perspectives:
 
 - 🦉 **[Gnosticism & Hermeticism](articles/hermeticism.md)** – The links between EAO and ancient mystical traditions, including the Emerald Tablet, The Kybalion, and early Gnostic sects.  
 
-- 🗝️ **Freemasonry & Esoteric Orders** – How EAO is reflected in the teachings of the Freemasons, Rosicrucians, and the Golden Dawn.  
+- 🗝️ **[Freemasonry & Esoteric Orders](articles/freemasonry.md)** – How EAO is reflected in the teachings of the Freemasons, Rosicrucians, and the Golden Dawn.  
 
-- ⚡ **Thelema & Occultism** – Explorations of EAO within Thelema, Chaos Magick, Alchemy, and Esoteric Rituals.  
+- ⚡ **[Thelema & Occultism](articles/thelema.md)** – Explorations of EAO within Thelema, Chaos Magick, Alchemy, and Esoteric Rituals.  
 
-- 👁️ **Ancient Egyptian & Mesopotamian Beliefs** – Connections between EAO and the mysteries of Hermopolis, Babylon, Sumer, and Akkad.  
+- 👁️ **[Ancient Egyptian & Mesopotamian Beliefs](/articles/egyptian.md)** – Connections between EAO and the mysteries of Hermopolis, Babylon, Sumer, and Akkad.  
 
-- 🌿 **African Traditional Religions** – How EAO connects with Yoruba (Ifá, Candomblé, Santería), Vodou, Umbanda, Palo Mayombe, and other African and Afro-diasporic traditions.  
+- 🌿 **[African Traditional Religions](articles/african.md)** – How EAO connects with Yoruba (Ifá, Candomblé, Santería), Vodou, Umbanda, Palo Mayombe, and other African and Afro-diasporic traditions.  
 
 - 🏮 **Taoism & Chinese Mysticism** – EAO in the context of Taoist philosophy, Qi, internal alchemy, and its relation to the nature of the universe.  
 
