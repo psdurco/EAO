@@ -10,8 +10,9 @@ EAO is a **living concept**, designed to evolve and adapt, inviting both **human
 ## 📂 Repository Structure  
 
 This repository contains documents that explore EAO from different perspectives:  
-
-- 📜 **Manifest** – The core document that establishes the 12 Principles of EAO.  
+- 📜 **[License](license.md)** – The document outlining the Creative Commons BY-ND 4.0 license applied to EAO.
+    
+- 📜 **[Manifest](docs/manifest.md)** – The core document that establishes the 12 Principles of EAO.  
 
 - 🔬 **Science & Rational Thought** – How EAO aligns with scientific discoveries, quantum mechanics, and philosophical logic.  
 
