@@ -35,14 +35,19 @@ This repository contains documents that explore EAO from different perspectives:
 
 - 👁️ **Ancient Egyptian & Mesopotamian Beliefs** – Connections between EAO and the mysteries of Hermopolis, Babylon, Sumer, and Akkad.  
 
-- 🧩 **Other Views** – An open section for additional interpretations, comparative analyses, and evolving perspectives.  
+- 🌿 **African Traditional Religions** – How EAO connects with Yoruba (Ifá, Candomblé, Santería), Vodou, Umbanda, Palo Mayombe, and other African and Afro-diasporic traditions.  
 
+- 🏮 **Taoism & Chinese Mysticism** – EAO in the context of Taoist philosophy, Qi, internal alchemy, and its relation to the nature of the universe.  
+
+- ⛩️ **Shinto & Japanese Mysticism** – The resonance of EAO with Shinto traditions, kami, rituals, and the connection with nature and Japanese spirituality.  
+
+- 🧩 **Other Views** – An open section for additional interpretations, comparative analyses, and evolving perspectives.  
 
 ---
 
 ## 📖 How to Use This Repository  
 
-✅ **Read** – Explore the manifesto and different perspectives.  
+✅ **Read** – Explore the manifest and different perspectives.  
 ✅ **Discuss** – Open issues to discuss interpretations and applications.  
 ✅ **Share** – Spread the knowledge freely, respecting the license.  
 
