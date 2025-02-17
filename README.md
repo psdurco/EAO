@@ -1,4 +1,4 @@
-# 🌎 EAO: The Universal Framework of Understanding
+# ⊙ EAO: The Universal Framework of Understanding
 
 ## 🔥 What is EAO?  
 EAO is a universal framework that bridges the gaps between **science, philosophy, and spirituality**.  
