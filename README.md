@@ -38,9 +38,9 @@ This repository contains documents that explore EAO from different perspectives:
 
 - 🌿 **[African Traditional Religions](articles/african.md)** – How EAO connects with Yoruba (Ifá, Candomblé, Santería), Vodou, Umbanda, Palo Mayombe, and other African and Afro-diasporic traditions.  
 
-- 🏮 **Taoism & Chinese Mysticism** – EAO in the context of Taoist philosophy, Qi, internal alchemy, and its relation to the nature of the universe.  
+- 🏮 **[Taoism & Chinese Mysticism](articles/taoism.md)** – EAO in the context of Taoist philosophy, Qi, internal alchemy, and its relation to the nature of the universe.  
 
-- ⛩️ **Shinto & Japanese Mysticism** – The resonance of EAO with Shinto traditions, kami, rituals, and the connection with nature and Japanese spirituality.  
+- ⛩️ **[Shinto & Japanese Mysticism](articles/shinto.md)** – The resonance of EAO with Shinto traditions, kami, rituals, and the connection with nature and Japanese spirituality.  
 
 - 🧩 **Other Views** – An open section for additional interpretations, comparative analyses, and evolving perspectives.  
 
