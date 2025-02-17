@@ -22,13 +22,13 @@ This repository contains documents that explore EAO from different perspectives:
 
 - 🕉️ **[Hinduism](articles/hinduism.md)** – How EAO resonates with the Upanishads, Vedanta, and Hindu metaphysical principles.  
 
-- ☸️ **Buddhism** – EAO in the context of Buddhist philosophy, mindfulness, and the nature of reality.  
+- ☸️ **[Buddhism](articles/buddhism.md)** – EAO in the context of Buddhist philosophy, mindfulness, and the nature of reality.  
 
-- 🔯 **Judaism & Kabbalah** – Perspectives from Jewish mysticism, Kabbalistic interpretations, and traditional Jewish thought.  
+- 🔯 **[Judaism & Kabbalah](articles/judaism.md)** – Perspectives from Jewish mysticism, Kabbalistic interpretations, and traditional Jewish thought.  
 
-- 🍃 **Indigenous & Shamanic Traditions** – How EAO aligns with ancestral wisdom, animism, and natural philosophy.  
+- 🍃 **[Indigenous & Shamanic Traditions](articles/indigenous.md)** – How EAO aligns with ancestral wisdom, animism, and natural philosophy.  
 
-- 🦉 **Gnosticism & Hermeticism** – The links between EAO and ancient mystical traditions, including the Emerald Tablet, The Kybalion, and early Gnostic sects.  
+- 🦉 **[Gnosticism & Hermeticism](articles/hermeticism.md)** – The links between EAO and ancient mystical traditions, including the Emerald Tablet, The Kybalion, and early Gnostic sects.  
 
 - 🗝️ **Freemasonry & Esoteric Orders** – How EAO is reflected in the teachings of the Freemasons, Rosicrucians, and the Golden Dawn.  
 
