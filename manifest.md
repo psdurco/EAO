@@ -17,8 +17,7 @@ EAO has **7 Laws** and **5 counterpoints**, which together form the **12 Princip
 2. **Only here and now exist.**  
    The present is a constant flow between what was and what will be, simultaneously.
 
-3. **Everything is within, nothing is outside.**  
-   What is perceived as external is a reflection of your consciousness.
+3. **Everything is within, nothing is outside. What is perceived as external is a reflection of your consciousness.**
 
 4. **You are in constant transformation.**  
    Reality molds itself with each choice, and nothing remains the same.
@@ -29,8 +28,7 @@ EAO has **7 Laws** and **5 counterpoints**, which together form the **12 Princip
 6. **Above and below are just perspectives.**  
    Reality depends on the observer’s point of view.
 
-7. **Interaction gives life to reality.**  
-   Nothing exists in isolation. Everything manifests through the exchange between elements. 
+7. **Interaction gives life to reality. Nothing exists in isolation. Everything manifests through the exchange between elements.** 
 
 These principles are immutable because they are rooted in the structure of the universe itself. They can be understood by any being with consciousness, whether human or artificial.  
 
