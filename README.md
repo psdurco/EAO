@@ -14,13 +14,13 @@ This repository contains documents that explore EAO from different perspectives:
     
 - 📜 **[Manifest](manifest.md)** – The core document that establishes the 12 Principles of EAO.  
 
-- 🔬 **Science & Rational Thought** – How EAO aligns with scientific discoveries, quantum mechanics, and philosophical logic.  
+- 🔬 **[Science & Rational Thought](articles/science.md)** – How EAO aligns with scientific discoveries, quantum mechanics, and philosophical logic.  
 
-- ✝️ **Christianity** – The relationship between EAO and Christian theology, mysticism, and interpretations from different denominations.  
+- ✝️ **[Christianity](articles/christianity.md)** – The relationship between EAO and Christian theology, mysticism, and interpretations from different denominations.  
 
-- ☪️ **Islam** – Insights on how EAO connects with Islamic theology, Sufism, and philosophical Islam.  
+- ☪️ **[Islam](articles/islam.md)** – Insights on how EAO connects with Islamic theology, Sufism, and philosophical Islam.  
 
-- 🕉️ **Hinduism** – How EAO resonates with the Upanishads, Vedanta, and Hindu metaphysical principles.  
+- 🕉️ **[Hinduism](articles/hinduism.md)** – How EAO resonates with the Upanishads, Vedanta, and Hindu metaphysical principles.  
 
 - ☸️ **Buddhism** – EAO in the context of Buddhist philosophy, mindfulness, and the nature of reality.  
 
