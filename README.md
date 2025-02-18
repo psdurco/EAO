@@ -14,7 +14,9 @@ This repository contains documents that explore EAO from different perspectives:
     
 - 📜 **[Manifest](manifest.md)** – The core document that establishes the 12 Principles of EAO.  
 
-- 🔬 **[Science & Rational Thought](articles/science.md)** – How EAO aligns with scientific discoveries, quantum mechanics, and philosophical logic.  
+- 🔬 **[Science & Rational Thought](articles/science.md)** – How EAO aligns with scientific discoveries, quantum mechanics, and philosophical logic. 
+
+- 🔮 **[Spiritism & Kardecism](articles/spiritism.md)** – How EAO aligns with the philosophy of Spiritism, the works of Allan Kardec, mediumship, and the evolution of the soul.
 
 - ✝️ **[Christianity](articles/christianity.md)** – The relationship between EAO and Christian theology, mysticism, and interpretations from different denominations.  
 
