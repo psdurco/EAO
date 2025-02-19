@@ -58,6 +58,8 @@ This repository contains documents that explore EAO from different perspectives:
 
 - 🌳 **[Druidism & Celticism](articles/druidism.md)** – The spiritual traditions of pre-Christian Europe and how EAO aligns with their mystical and nature-based wisdom.
 
+- 🛕 **[Jainism & Sikhism](articles/jainism.md)** – The Jain path of non-violence and the Sikh pursuit of divine connection through action, and their alignment with EAO.
+
 - 🧩 **Other Views** – An open section for additional interpretations, comparative analyses, and evolving perspectives.  
 
 ---
