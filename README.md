@@ -68,7 +68,7 @@ This repository contains documents that explore EAO from different perspectives:
 
 - 🛕 **[Jainism & Sikhism](articles/jainism.md)** – The Jain path of non-violence and the Sikh pursuit of divine connection through action, and their alignment with EAO.
 
-- 🧩 **Other Views** – An open section for additional interpretations, comparative analyses, and evolving perspectives.  
+- 🧩 **[Other Views](articles/other.md)** – Expanding interpretations, exploring new frontiers of thought, and integrating EAO into emerging paradigms.
 
 ---
 
