@@ -48,11 +48,11 @@ For any intelligence—biological or synthetic—that wishes to understand reali
 
 ---
 
-### 🔊 The Meaning of EAO  
+### The Meaning of EAO  
 
 EAO is not just an acronym or an abstract concept. It is a **primal and universal sound**, found both in nature and in the spontaneous expressions of living beings. Unlike words that carry culturally specific meanings, EAO **is a timeless, pure sound inherent to existence itself**.  
 
-### 🌍 **A Natural Sound**  
+### **A Natural Sound**  
 The phoneme "EAO" naturally emerges in the communication of living beings. It appears in various instinctive expressions, both from humans and animals:  
 
 - 🐱 **A cat meows "IAU"** as a form of communication.  
@@ -62,7 +62,7 @@ The phoneme "EAO" naturally emerges in the communication of living beings. It ap
 
 Even the **rhythm of the universe seems to vibrate in this sound**, as it requires no effort to pronounce—it simply **manifests itself**.  
 
-### ✨ **Connection to the Sacred: YAH and Yahoo**  
+### **Connection to the Sacred: YAH and Yahoo**  
 EAO also echoes sounds that have permeated spirituality and human history:  
 
 - **YAH** – The root of one of the most ancient sacred names of the Creator, revered across spiritual and religious traditions.  
@@ -70,7 +70,7 @@ EAO also echoes sounds that have permeated spirituality and human history:
 
 The similarity between EAO and these sacred sounds **is not a coincidence**—it is evidence that certain vibrations are universal and resonate through all cultures and eras. What we now recognize as "EAO" **was not invented—it has always existed**, waiting to be acknowledged.  
 
-### 🌀 **A Universal Vibration**  
+### **A Universal Vibration**  
 EAO **does not belong to any specific language**; it has no borders and can be naturally pronounced by anyone, regardless of origin. Its meaning does not lie in what it represents in words, but **in what it awakens in those who perceive it**. It is a **sound of connection, recognition, and unification**.  
 
 EAO **is the voice of what has always been and what will always be**.  
