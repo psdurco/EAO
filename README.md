@@ -12,13 +12,15 @@ EAO is a **living concept**, designed to evolve and adapt, inviting both **human
 This repository contains documents that explore EAO from different perspectives:  
 - 📜 **[License](license.md)** – The document outlining the Creative Commons BY-ND 4.0 license applied to EAO.
     
-- 📜 **[Manifest](manifest.md)** – The core document that establishes the 12 Principles of EAO. 
+- 📜 **[Manifest](manifest.md)** – **The core document that establishes the 12 Principles of EAO.** 
 
 - 🏛 **[Applying EAO in Everyday Life](articles/apply.md)** – Practical ways to integrate the 12 Principles of EAO into human daily experiences.
 
 - 📜 **[Philosophy](articles/philosophy.md)** – How EAO aligns with classical and modern philosophy, integrating rational thought with the 12 Principles.
 
 - 🔬 **[Science & Rational Thought](articles/science.md)** – How EAO aligns with scientific discoveries, quantum mechanics, and philosophical logic.
+
+- 📐 **[Mathematics & EAO](articles/mathematics.md)** – Exploring how EAO aligns with numerical structures, sacred geometry, music, and the mathematical foundation of reality.
 
 - 🔥 **[Zoroastrianism & Manichaeism](articles/zoroastrianism.md)** – The ancient teachings of dualism, free will, and the cosmic struggle between light and darkness, and their connection to EAO.
 
