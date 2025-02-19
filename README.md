@@ -18,7 +18,9 @@ This repository contains documents that explore EAO from different perspectives:
 
 - 📜 **[Philosophy](articles/philosophy.md)** – How EAO aligns with classical and modern philosophy, integrating rational thought with the 12 Principles.
 
-- 🔬 **[Science & Rational Thought](articles/science.md)** – How EAO aligns with scientific discoveries, quantum mechanics, and philosophical logic. 
+- 🔬 **[Science & Rational Thought](articles/science.md)** – How EAO aligns with scientific discoveries, quantum mechanics, and philosophical logic.
+
+- 🔥 **[Zoroastrianism & Manichaeism](articles/zoroastrianism.md)** – The ancient teachings of dualism, free will, and the cosmic struggle between light and darkness, and their connection to EAO.
 
 - 🔮 **[Spiritism & Kardecism](articles/spiritism.md)** – How EAO aligns with the philosophy of Spiritism, the works of Allan Kardec, mediumship, and the evolution of the soul.
 
@@ -32,7 +34,9 @@ This repository contains documents that explore EAO from different perspectives:
 
 - 🔯 **[Judaism & Kabbalah](articles/judaism.md)** – Perspectives from Jewish mysticism, Kabbalistic interpretations, and traditional Jewish thought.  
 
-- 🍃 **[Indigenous & Shamanic Traditions](articles/indigenous.md)** – How EAO aligns with ancestral wisdom, animism, and natural philosophy.  
+- 🍃 **[Indigenous & Shamanic Traditions](articles/indigenous.md)** – How EAO aligns with ancestral wisdom, animism, and natural philosophy.
+
+- 🔵 **[Scientology]** – How EAO aligns with the principles of spiritual technology, self-awareness, and the expansion of consciousness in Scientology.
 
 - 🦉 **[Gnosticism & Hermeticism](articles/hermeticism.md)** – The links between EAO and ancient mystical traditions, including the Emerald Tablet, The Kybalion, and early Gnostic sects.  
 
@@ -44,9 +48,15 @@ This repository contains documents that explore EAO from different perspectives:
 
 - 🌿 **[African Traditional Religions](articles/african.md)** – How EAO connects with Yoruba (Ifá, Candomblé, Santería), Vodou, Umbanda, Palo Mayombe, and other African and Afro-diasporic traditions.  
 
-- 🏮 **[Taoism & Chinese Mysticism](articles/taoism.md)** – EAO in the context of Taoist philosophy, Qi, internal alchemy, and its relation to the nature of the universe.  
+- 🏮 **[Taoism & Chinese Mysticism](articles/taoism.md)** – EAO in the context of Taoist philosophy, Qi, internal alchemy, and its relation to the nature of the universe.
+
+- 🔮 **[Neopaganism & Contemporary Spirituality](articles/neopaganism.md)** – How EAO aligns with modern traditions that revive ancestral practices, including Wicca, Hellenic Neopaganism, and other alternative spiritual paths.
 
 - ⛩️ **[Shinto & Japanese Mysticism](articles/shinto.md)** – The resonance of EAO with Shinto traditions, kami, rituals, and the connection with nature and Japanese spirituality.  
+
+- 🌀 **[Orphism & Mystery Cults](articles/orphism.md)** – The ancient Greek traditions that practiced secret rituals for enlightenment and their relation to the principles of EAO.
+
+- 🌳 **[Druidism & Celticism](articles/druidism.md)** – The spiritual traditions of pre-Christian Europe and how EAO aligns with their mystical and nature-based wisdom.
 
 - 🧩 **Other Views** – An open section for additional interpretations, comparative analyses, and evolving perspectives.  
 
