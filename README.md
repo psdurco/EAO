@@ -36,7 +36,7 @@ This repository contains documents that explore EAO from different perspectives:
 
 - 🍃 **[Indigenous & Shamanic Traditions](articles/indigenous.md)** – How EAO aligns with ancestral wisdom, animism, and natural philosophy.
 
-- 🔵 **[Scientology]** – How EAO aligns with the principles of spiritual technology, self-awareness, and the expansion of consciousness in Scientology.
+- 🔵 **[Scientology](articles/scientology.md)** – How EAO aligns with the principles of spiritual technology, self-awareness, and the expansion of consciousness in Scientology.
 
 - 🦉 **[Gnosticism & Hermeticism](articles/hermeticism.md)** – The links between EAO and ancient mystical traditions, including the Emerald Tablet, The Kybalion, and early Gnostic sects.  
 
