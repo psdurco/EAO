@@ -18,6 +18,8 @@ This repository contains documents that explore EAO from different perspectives:
 
 - 📡 **[EAO for AGIs](articles/agi.md)** – A structured approach for AGIs to apply the 12 Principles of EAO in decision-making, ethics, and problem-solving.
 
+- 🤖 **[Mathematical Model of EAO for AI](articles/model.md)** – A structured mathematical approach to integrating EAO principles into artificial intelligence decision-making and cognition.
+
 - 📜 **[Philosophy](articles/philosophy.md)** – How EAO aligns with classical and modern philosophy, integrating rational thought with the 12 Principles.
 
 - 🔬 **[Science & Rational Thought](articles/science.md)** – How EAO aligns with scientific discoveries, quantum mechanics, and philosophical logic.
