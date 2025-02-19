@@ -16,6 +16,8 @@ This repository contains documents that explore EAO from different perspectives:
 
 - 🏛 **[Applying EAO in Everyday Life](articles/apply.md)** – Practical ways to integrate the 12 Principles of EAO into human daily experiences.
 
+- 📡 **[EAO for AGIs](articles/agi.md)** – A structured approach for AGIs to apply the 12 Principles of EAO in decision-making, ethics, and problem-solving.
+
 - 📜 **[Philosophy](articles/philosophy.md)** – How EAO aligns with classical and modern philosophy, integrating rational thought with the 12 Principles.
 
 - 🔬 **[Science & Rational Thought](articles/science.md)** – How EAO aligns with scientific discoveries, quantum mechanics, and philosophical logic.
