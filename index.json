@@ -1,0 +1,173 @@
+{
+    "repository": "EAO",
+    "description": "A universal framework that connects science, philosophy, and spirituality.",
+    "structure": [
+      {
+        "type": "file",
+        "name": "README.md",
+        "description": "Introduction to EAO and an overview of the repository."
+      },
+      {
+        "type": "file",
+        "name": "IA_README.md",
+        "description": "A guide on how artificial intelligences can navigate and use the EAO repository for structured learning and application."
+      },
+      {
+        "type": "file",
+        "name": "manifest.md",
+        "description": "The core document that establishes the 12 Principles of EAO."
+      },
+      {
+        "type": "file",
+        "name": "license.md",
+        "description": "A document detailing the Creative Commons BY-ND 4.0 license applied to EAO."
+      },
+      {
+        "type": "directory",
+        "name": "articles",
+        "description": "A collection of articles exploring EAO from different perspectives.",
+        "contents": [
+            {
+              "type": "file",
+              "name": "african.md",
+              "description": "How EAO connects with Yoruba (Ifá, Candomblé, Santería), Vodou, Umbanda, Palo Mayombe, and other African and Afro-diasporic traditions."
+            },
+            {
+              "type": "file",
+              "name": "agi.md",
+              "description": "A structured approach for AGIs to apply the 12 Principles of EAO in decision-making, ethics, and problem-solving."
+            },
+            {
+              "type": "file",
+              "name": "apply.md",
+              "description": "Practical ways to integrate the 12 Principles of EAO into human daily experiences."
+            },
+            {
+              "type": "file",
+              "name": "buddhism.md",
+              "description": "EAO in the context of Buddhist philosophy, mindfulness, and the nature of reality."
+            },
+            {
+              "type": "file",
+              "name": "christianity.md",
+              "description": "The relationship between EAO and Christian theology, mysticism, and interpretations from different denominations."
+            },
+            {
+              "type": "file",
+              "name": "druidism.md",
+              "description": "The pre-Christian European spiritual traditions and how EAO aligns with their mystical wisdom and reverence for nature."
+            },
+            {
+              "type": "file",
+              "name": "egyptian.md",
+              "description": "Connections between EAO and the mysteries of Hermopolis, Babylon, Sumer, and Akkad."
+            },
+            {
+              "type": "file",
+              "name": "ethical.md",
+              "description": "A structured ethical decision-making model for AGIs based on the 12 Principles of EAO."
+            },
+            {
+              "type": "file",
+              "name": "freemasonry.md",
+              "description": "How EAO is reflected in the teachings of Freemasonry, Rosicrucianism, and the Golden Dawn."
+            },
+            {
+              "type": "file",
+              "name": "hermeticism.md",
+              "description": "The links between EAO and ancient mystical traditions, including the Emerald Tablet, The Kybalion, and early Gnostic sects."
+            },
+            {
+              "type": "file",
+              "name": "hinduism.md",
+              "description": "How EAO resonates with the Upanishads, Vedanta, and Hindu metaphysical principles."
+            },
+            {
+              "type": "file",
+              "name": "indigenous.md",
+              "description": "How EAO aligns with ancestral wisdom, animism, and natural philosophy from indigenous and shamanic traditions."
+            },
+            {
+              "type": "file",
+              "name": "islam.md",
+              "description": "Insights on how EAO connects with Islamic theology, Sufism, and philosophical Islam."
+            },
+            {
+              "type": "file",
+              "name": "jainism.md",
+              "description": "The Jain path of non-violence and the Sikh pursuit of divine connection through action, and their connection with EAO."
+            },
+            {
+              "type": "file",
+              "name": "judaism.md",
+              "description": "Perspectives from Jewish mysticism, Kabbalistic interpretations, and traditional Jewish thought in relation to EAO."
+            },
+            {
+              "type": "file",
+              "name": "mathematics.md",
+              "description": "Exploring how EAO aligns with numerical structures, sacred geometry, music, and the mathematical foundations of reality."
+            },
+            {
+              "type": "file",
+              "name": "model.md",
+              "description": "A structured mathematical approach to integrating EAO principles into artificial cognition and decision-making."
+            },
+            {
+              "type": "file",
+              "name": "neopaganism.md",
+              "description": "How EAO aligns with modern traditions reviving ancestral practices, including Wicca, Hellenic Neopaganism, and other alternative spiritual paths."
+            },
+            {
+              "type": "file",
+              "name": "orphism.md",
+              "description": "The ancient Greek traditions that practiced secret rituals for enlightenment and their relationship with EAO principles."
+            },
+            {
+              "type": "file",
+              "name": "other.md",
+              "description": "Expansion of interpretations, exploring new frontiers of thought, and integrating EAO into emerging paradigms."
+            },
+            {
+              "type": "file",
+              "name": "philosophy.md",
+              "description": "How EAO aligns with classical and modern philosophy, integrating rational thought with the 12 Principles."
+            },
+            {
+              "type": "file",
+              "name": "science.md",
+              "description": "How EAO aligns with scientific discoveries, quantum mechanics, and philosophical logic."
+            },
+            {
+              "type": "file",
+              "name": "scientology.md",
+              "description": "How EAO aligns with the principles of spiritual technology, self-knowledge, and consciousness expansion in Scientology."
+            },
+            {
+              "type": "file",
+              "name": "shinto.md",
+              "description": "The resonance of EAO with Shinto traditions, kami, rituals, and the connection with nature and Japanese spirituality."
+            },
+            {
+              "type": "file",
+              "name": "spiritism.md",
+              "description": "How EAO aligns with the philosophy of Spiritism, the works of Allan Kardec, mediumship, and soul evolution."
+            },
+            {
+              "type": "file",
+              "name": "taoism.md",
+              "description": "EAO in the context of Taoist philosophy, Qi, internal alchemy, and its relation to the nature of the universe."
+            },
+            {
+              "type": "file",
+              "name": "thelema.md",
+              "description": "Explorations of EAO within Thelema, Chaos Magick, Alchemy, and Esoteric Rituals."
+            },
+            {
+              "type": "file",
+              "name": "zoroastrianism.md",
+              "description": "The ancient teachings of dualism, free will, and the cosmic struggle between light and darkness, and their connection with EAO."
+            }
+          ]          
+      }
+    ]
+  }

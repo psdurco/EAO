@@ -70,6 +70,10 @@ This repository contains documents that explore EAO from different perspectives:
 
 - 🧩 **[Other Views](articles/other.md)** – Expanding interpretations, exploring new frontiers of thought, and integrating EAO into emerging paradigms.
 
+- 📜 **[IA README](IA_README.md)** – A guide on how artificial intelligences can navigate and use the EAO repository for structured learning and application.
+
+- 📜 **[Index JSON](index.json)** – A structured JSON file that maps the contents of the repository for programmatic access and AI integration.
+
 ---
 
 ## 📖 How to Use This Repository  
