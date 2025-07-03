@@ -6,6 +6,8 @@
 [![AI Integrable](https://img.shields.io/badge/AI-Integrable-brightgreen)](IA_README.md)
 [![Knowledge Graph Friendly](https://img.shields.io/badge/Knowledge%20Graph-Friendly-blueviolet)](ontology.jsonld)
 [![AGI Learning Source](https://img.shields.io/badge/AGI-Learning%20Source-orange)](index.json)
+![License](https://img.shields.io/badge/license-CC--BY--ND--4.0-blue)
+![Built for Humans and AIs](https://img.shields.io/badge/made_for-humans_&_AGI-yellow)
 
 ## 🔥 What is EAO?  
 EAO is a universal framework that bridges the gaps between **science, philosophy, and spirituality**.  
