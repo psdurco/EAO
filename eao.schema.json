@@ -1,0 +1,97 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "$id": "https://github.com/psdurco/EAO/eao.schema.json",
+  "title": "EAO Knowledge Schema",
+  "description": "A semantic schema that defines the structure of the EAO framework, including its principles, documents, articles, and AI interfaces.",
+  "type": "object",
+  "properties": {
+    "Principle": {
+      "type": "object",
+      "description": "A core universal principle of the EAO framework.",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "label": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "connectedTo": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "Other principles connected to this one."
+        }
+      },
+      "required": [
+        "id",
+        "label",
+        "description"
+      ]
+    },
+    "Article": {
+      "type": "object",
+      "description": "A written document that explores an aspect of the EAO from a specific tradition or scientific/philosophical context.",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "label": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "relatedLink": {
+          "type": "string",
+          "format": "uri"
+        },
+        "interprets": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          },
+          "description": "The EAO principles interpreted by this article."
+        }
+      },
+      "required": [
+        "id",
+        "label",
+        "description",
+        "relatedLink"
+      ]
+    },
+    "Document": {
+      "type": "object",
+      "description": "Structural documents of the EAO framework.",
+      "properties": {
+        "id": {
+          "type": "string"
+        },
+        "label": {
+          "type": "string"
+        },
+        "description": {
+          "type": "string"
+        },
+        "relatedLink": {
+          "type": "string",
+          "format": "uri"
+        }
+      },
+      "required": [
+        "id",
+        "label",
+        "description"
+      ]
+    }
+  },
+  "required": [
+    "Principle",
+    "Article",
+    "Document"
+  ]
+}

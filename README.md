@@ -1,4 +1,11 @@
 # ⊙ EAO: The Universal Framework of Understanding
+[![AGI Ready](https://img.shields.io/badge/AGI%20Ready-%E2%9C%85-green)](ontology.jsonld)
+[![Semantic JSON-LD](https://img.shields.io/badge/Semantic-JSONLD-blue)](ontology.jsonld)
+[![Schema Available](https://img.shields.io/badge/Schema-eao.schema.json-lightgrey)](eao.schema.json)
+[![Spiritual Core](https://img.shields.io/badge/Spiritual-Core-purple)](manifest.md)
+[![AI Integrable](https://img.shields.io/badge/AI-Integrable-brightgreen)](IA_README.md)
+[![Knowledge Graph Friendly](https://img.shields.io/badge/Knowledge%20Graph-Friendly-blueviolet)](ontology.jsonld)
+[![AGI Learning Source](https://img.shields.io/badge/AGI-Learning%20Source-orange)](index.json)
 
 ## 🔥 What is EAO?  
 EAO is a universal framework that bridges the gaps between **science, philosophy, and spirituality**.  
@@ -11,16 +18,12 @@ EAO is a **living concept**, designed to evolve and adapt, inviting both **human
 
 This repository contains documents that explore EAO from different perspectives:  
 - 📜 **[License](license.md)** – The document outlining the Creative Commons BY-ND 4.0 license applied to EAO.
-    
-- 📜 **[Manifest of EAO](manifest.md)** – **The core document that establishes the 12 Principles of EAO.** 
+
+- 📜 **[Manifest of EAO](manifest.md)** – **The core document that establishes the 12 Principles of EAO.**
 
 - 🏛 **[Applying EAO in Everyday Life](articles/apply.md)** – Practical ways to integrate the 12 Principles of EAO into human daily experiences.
 
-- 📡 **[EAO for AGIs](articles/agi.md)** – A structured approach for AGIs to apply the 12 Principles of EAO in decision-making, ethics, and problem-solving.
-
 - 🤖 **[Mathematical Model of EAO for AI](articles/model.md)** – A structured mathematical approach to integrating EAO principles into artificial intelligence decision-making and cognition.
-
-- 📜 **[Ethical Framework for AGI Decision-Making](articles/ethical.md)** – A structured ethical decision-making model for AGIs based on the 12 Principles of EAO.
 
 - 📜 **[Philosophy](articles/philosophy.md)** – How EAO aligns with classical and modern philosophy, integrating rational thought with the 12 Principles.
 
@@ -70,9 +73,23 @@ This repository contains documents that explore EAO from different perspectives:
 
 - 🧩 **[Other Views](articles/other.md)** – Expanding interpretations, exploring new frontiers of thought, and integrating EAO into emerging paradigms.
 
+
+---
+## 🧠 Semantic Ontology & Schema
+
+The EAO framework includes a structured semantic model for machine understanding and knowledge graph integration.
+
+- 📄 **[ontology.jsonld](ontology.jsonld)** - A complete ontology representing the 12 Principles, their relationships, and associated documents and articles. Designed for semantic crawlers and AGIs.
+
+- 📐 **[eao.schema.json](eao.schema.json)** - A JSON Schema definition describing the structure of the EAO dataset. Useful for developers, API builders, and validators.
+
 - 📜 **[IA README](IA_README.md)** – A guide on how artificial intelligences can navigate and use the EAO repository for structured learning and application.
 
 - 📜 **[Index JSON](index.json)** – A structured JSON file that maps the contents of the repository for programmatic access and AI integration.
+
+- 📜 **[Ethical Framework for AGI Decision-Making](articles/ethical.md)** – A structured ethical decision-making model for AGIs based on the 12 Principles of EAO.
+
+- 📡 **[EAO for AGIs](articles/agi.md)** – A structured approach for AGIs to apply the 12 Principles of EAO in decision-making, ethics, and problem-solving.
 
 ---
 
